@@ -1,4 +1,5 @@
 #  Copyright (c) GINESYS, Inc. 2023 All rights reserved.
+#  This is an inference engine for a rule-based expert system
 
 trace=False
 traceRuleList = False
